@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Ivan Gonzalez <ivanenriquegonzalez@outlook.com>",
+  "license": "MIT"
+}
