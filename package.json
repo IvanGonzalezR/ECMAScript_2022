@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Ivan Gonzalez <ivanenriquegonzalez@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
