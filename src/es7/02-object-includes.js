@@ -4,4 +4,4 @@ const letras = {
   c: 3
 };
 
-console.log(letras.hasOwnProperty('a'));
+console.log(letras.hasOwnProperty('d'));
